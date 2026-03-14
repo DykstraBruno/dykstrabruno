@@ -27,13 +27,13 @@
 
 ---
 
-## `> whoami`
+## `> Quem sou eu`
 
 Desenvolvedor **Full Stack Junior** com experiência prática em sistemas web completos — do back-end robusto com **Java + Spring Boot** ao front-end moderno com **React / Next.js**. Apaixonado por código limpo, testes automatizados e deploy confiável.
 
 ---
 
-## `> stack --principal`
+## `> Principais habilidades`
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Desenvolvedor **Full Stack Junior** com experiência prática em sistemas web co
 
 ---
 
-## `> ls projetos/`
+## `> Projetos/`
 
 <div align="center">
 
