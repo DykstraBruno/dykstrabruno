@@ -58,10 +58,7 @@ Desenvolvedor **Full Stack** com experiência prática em sistemas web completos
 
 | ⚔️ Projeto | 📜 Descrição | 🛠️ Stack |
 |---|---|---|
-| [🏦 Plataforma de Pagamentos Digitais](https://github.com/DykstraBruno/Plataforma-de-pagamentos-digitais) | Plataforma completa de pagamentos digitais | Java · Spring Boot |
-| [✅ Gerenciamento de Tarefas](https://github.com/DykstraBruno/Gerenciamento-De-Tarefas) | REST API com JWT + Docker | Spring Boot · JWT · Docker |
-| [🏥 Sistema de Gestão Hospitalar](https://github.com/DykstraBruno/Sistema-de-gestao-hospitalar) | Sistema completo de gestão hospitalar | Java · Spring Boot |
-| [🌐 Agência Criativa Web](https://github.com/DykstraBruno/Ag-ncia-Criativa-Web) | Website para agência criativa | HTML · CSS · JS |
+| [🎵 AuraBot](https://github.com/DykstraBruno/AuraBot) | Bot de música controlado por voz — instale e use como qualquer programa | Electron · React · Node.js · TypeScript · PostgreSQL · Prisma · Discord.js · OpenAI Whisper |
 
 </div>
 
