@@ -59,6 +59,8 @@ Desenvolvedor **Full Stack** com experiência prática em sistemas web completos
 | ⚔️ Projeto | 📜 Descrição | 🛠️ Stack |
 |---|---|---|
 | [🎵 AuraBot](https://github.com/DykstraBruno/AuraBot) | Bot de música controlado por voz — instale e use como qualquer programa | Electron · React · Node.js · TypeScript · PostgreSQL · Prisma · Discord.js · OpenAI Whisper |
+| [📈 Stride](https://github.com/DykstraBruno/Stride) | Aplicação full stack de produtividade com foco em organização pessoal e arquitetura limpa | React · Node.js · TypeScript · Prisma · PostgreSQL · Groq AI |
+| [🧩 Workaholic](https://github.com/DykstraBruno/workaholic) | Extensão Chrome que centraliza vagas freelancers de múltiplas plataformas direto no navegador | JavaScript · Chrome Extension · Manifest V3 · HTML · CSS |
 
 </div>
 
