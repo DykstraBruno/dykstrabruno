@@ -52,6 +52,13 @@ Desenvolvedor **Full Stack** com experiência prática em sistemas web completos
 
 ---
 
+## `> Linguagens no repositório`
+
+![GitHub language count](https://img.shields.io/github/languages/count/DykstraBruno/dykstrabruno?color=64ffda&style=for-the-badge&label=linguagens)
+![Top language](https://img.shields.io/github/languages/top/DykstraBruno/dykstrabruno?color=64ffda&style=for-the-badge&label=principal)
+
+---
+
 ## `> Linguagens mais usadas no GitHub`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DykstraBruno&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=64ffda&text_color=e2e8f0&icon_color=64ffda&langs_count=8&hide=html,css,scss,jupyter%20notebook)](https://github.com/DykstraBruno)
