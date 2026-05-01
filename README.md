@@ -58,7 +58,10 @@ Desenvolvedor **Full Stack** com experiência prática em sistemas web completos
 
 <div align="center">
 
-<img src="./assets/stacks-grafico.svg" alt="Stacks mais utilizadas" width="400" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" title="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" title="C" />
 
 </div>
 
