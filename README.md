@@ -52,65 +52,20 @@ Desenvolvedor **Full Stack** com experiência prática em sistemas web completos
 
 ---
 
-## `> Projetos/`
+## `> Stacks mais utilizadas`
 
 <div align="center">
 
-| ⚔️ Projeto | 📜 Descrição | 🛠️ Stack |
-|---|---|---|
-| [🎵 AuraBot](https://github.com/DykstraBruno/AuraBot) | Bot de música controlado por voz — instale e use como qualquer programa | Electron · React · Node.js · TypeScript · PostgreSQL · Prisma · Discord.js · OpenAI Whisper |
-| [📈 Stride](https://github.com/DykstraBruno/Stride) | Aplicação full stack de produtividade com foco em organização pessoal e arquitetura limpa | React · Node.js · TypeScript · Prisma · PostgreSQL · Groq AI |
-| [🧩 Workaholic](https://github.com/DykstraBruno/workaholic) | Extensão Chrome que centraliza vagas freelancers de múltiplas plataformas direto no navegador | JavaScript · Chrome Extension · Manifest V3 · HTML · CSS |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DykstraBruno&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=64ffda&text_color=e2e8f0&icon_color=64ffda&langs_count=10&card_width=445" alt="Top Languages" />
 
 </div>
 
 ---
 
-## `> Experiência`
-
-### 🔹 Full Stack Developer — Freelance `[2025]`
-**Website para Profissional de Psicologia**
-- Sistema de agendamento online + portal de contato com clientes
-- Autenticação **JWT + OAuth2** · comunicação em tempo real com **Socket.io**
-- CI/CD com **GitHub Actions** → deploy automático no **Vercel** · storage no **AWS S3**
-- `Next.js` · `TypeScript` · `Express.js` · `PostgreSQL` · `Prisma` · `Docker`
-
-### 🔹 Front-End Developer — Freelance `[2025]`
-**Portfólio para Profissional de Arquitetura**
-- Layout responsivo com integração à **WhatsApp API**
-- `React` · `JavaScript` · `CSS3`
-
----
-
-## `> Formação`
-
-- 🎓 **Engenharia da Computação** — Cursando *(previsão: Dez 2026)*
-- 📘 **Java Full Stack** — EBAC *(em andamento)*
-- 📗 **Front-End Development** — Udemy *(concluído)*
-
----
-
 <div align="center">
-
-## `> Contato`
-
-**Aberto a oportunidades — It's dangerous to go alone... talk to me!** 🗡️
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=64ffda)](https://linkedin.com/in/brunodykstra)
-[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=64ffda)](mailto:brunodykstra@gmail.com)
-
-<br/>
-
----
 
 <img src="https://media4.giphy.com/media/6K9d0km3dH6OQ/giphy.gif" width="220" alt="Link - Legend of Zelda pixel art"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://media4.giphy.com/media/iY10tiEwZ4cXAIQgvW/giphy.gif" width="220" alt="Zelda pixel art - Ocarina of Time"/>
-
-*"It's dangerous to go alone! Take this."* 🗡️
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,60:1a1a2e,100:000000&height=90&section=footer"/>
 
 </div>
