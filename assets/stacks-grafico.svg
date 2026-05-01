@@ -10,9 +10,9 @@
     <!-- C (1/23) -->
     <path d="M200,200 L186.18,50.75 A150,150 0 0,1 200,50 Z" fill="#555555" />
     <!-- Labels -->
-    <text x="270" y="100" font-size="16" fill="#222">JavaScript (9)</text>
-    <text x="100" y="340" font-size="16" fill="#fff">Java (9)</text>
-    <text x="120" y="80" font-size="15" fill="#fff">TypeScript (4)</text>
-    <text x="195" y="40" font-size="13" fill="#fff">C (1)</text>
+    <text x="290" y="170" font-size="16" fill="#222">JavaScript (9)</text>
+    <text x="110" y="350" font-size="16" fill="#fff">Java (9)</text>
+    <text x="120" y="100" font-size="15" fill="#fff">TypeScript (4)</text>
+    <text x="200" y="70" font-size="13" fill="#fff">C (1)</text>
   </g>
 </svg>
