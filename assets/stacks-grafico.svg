@@ -2,17 +2,17 @@
   <title>Linguagens de Programação Mais Usadas</title>
   <g>
     <!-- JavaScript (9/23) -->
-    <path d="M200,200 L200,50 A150,150 0 0,1 335.36,270.45 Z" fill="#f7df1e" />
+    <path d="M200,200 L200,50 A150,150 0 1,1 70.6,270.6 Z" fill="#f7df1e" />
     <!-- Java (9/23) -->
-    <path d="M200,200 L335.36,270.45 A150,150 0 0,1 80.90,320.90 Z" fill="#007396" />
+    <path d="M200,200 L70.6,270.6 A150,150 0 1,1 329.4,270.6 Z" fill="#007396" />
     <!-- TypeScript (4/23) -->
-    <path d="M200,200 L80.90,320.90 A150,150 0 0,1 186.18,50.75 Z" fill="#3178c6" />
+    <path d="M200,200 L329.4,270.6 A150,150 0 0,1 186.2,50.8 Z" fill="#3178c6" />
     <!-- C (1/23) -->
-    <path d="M200,200 L186.18,50.75 A150,150 0 0,1 200,50 Z" fill="#555555" />
+    <path d="M200,200 L186.2,50.8 A150,150 0 0,1 200,50 Z" fill="#555555" />
     <!-- Labels -->
-    <text x="290" y="170" font-size="16" fill="#222">JavaScript (9)</text>
-    <text x="110" y="350" font-size="16" fill="#fff">Java (9)</text>
-    <text x="120" y="100" font-size="15" fill="#fff">TypeScript (4)</text>
-    <text x="200" y="70" font-size="13" fill="#fff">C (1)</text>
+    <text x="270" y="120" font-size="16" fill="#222">JavaScript (9)</text>
+    <text x="90" y="320" font-size="16" fill="#fff">Java (9)</text>
+    <text x="250" y="60" font-size="15" fill="#fff">TypeScript (4)</text>
+    <text x="200" y="80" font-size="13" fill="#fff">C (1)</text>
   </g>
 </svg>
