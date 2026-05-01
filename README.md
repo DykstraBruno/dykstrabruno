@@ -56,7 +56,7 @@ Desenvolvedor **Full Stack** com experiência prática em sistemas web completos
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DykstraBruno&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=64ffda&text_color=e2e8f0&icon_color=64ffda&langs_count=10&card_width=445&size_weight=0.5&count_weight=0.5&hide=html,css,scss,jupyter%20notebook" alt="Top Languages" />
+<img src="./assets/metrics-languages.svg" alt="Top Languages" width="500" />
 
 </div>
 
