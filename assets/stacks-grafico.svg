@@ -1,13 +1,13 @@
 <svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
   <title>Linguagens de Programação Mais Usadas</title>
   <g>
-    <!-- JavaScript (9/23) -->
+    <!-- JavaScript (9/23) - 0° a 140.87° -->
     <path d="M200,200 L200,50 A150,150 0 1,1 70.6,270.6 Z" fill="#f7df1e" />
-    <!-- Java (9/23) -->
+    <!-- Java (9/23) - 140.87° a 281.74° -->
     <path d="M200,200 L70.6,270.6 A150,150 0 1,1 329.4,270.6 Z" fill="#007396" />
-    <!-- TypeScript (4/23) -->
+    <!-- TypeScript (4/23) - 281.74° a 342.61° -->
     <path d="M200,200 L329.4,270.6 A150,150 0 0,1 186.2,50.8 Z" fill="#3178c6" />
-    <!-- C (1/23) -->
+    <!-- C (1/23) - 342.61° a 360° -->
     <path d="M200,200 L186.2,50.8 A150,150 0 0,1 200,50 Z" fill="#555555" />
     <!-- Labels -->
     <text x="270" y="120" font-size="16" fill="#222">JavaScript (9)</text>
