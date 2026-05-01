@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a1a2e,100:0f3460&height=130&section=header&text=Bruno%20Dykstra&fontSize=46&fontColor=e2e8f0&animation=fadeIn&fontAlignY=65&desc=%20Full%20Stack%20Developer&descSize=16&descAlignY=85&descColor=64ffda"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a1a2e,100:0f3460&height=130&section=header&text=Brunos%20Dykstra&fontSize=46&fontColor=e2e8f0&animation=fadeIn&fontAlignY=65&desc=%20Full%20Stack%20Developer&descSize=16&descAlignY=85&descColor=64ffda"/>
 
 <br/>
 
@@ -49,6 +49,12 @@ Desenvolvedor **Full Stack** com experiência prática em sistemas web completos
 ![AWS S3](https://img.shields.io/badge/AWS_S3-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=64ffda)
 
 </div>
+
+---
+
+## `> Linguagens mais usadas no GitHub`
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DykstraBruno&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=64ffda&text_color=e2e8f0&icon_color=64ffda&langs_count=8&hide=html,css,scss,jupyter%20notebook)](https://github.com/DykstraBruno)
 
 ---
 
